@@ -1,5 +1,5 @@
 ---
-name: Dr Crusher
+name: Dr. Crusher
 rarity: 4
 series: tng
 memory_alpha:
